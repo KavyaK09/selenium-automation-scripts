@@ -1,0 +1,15 @@
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# Build directories
+bin/
+target/
+
+# Maven dependency cache
+Maven Dependencies/
+
+# System files
+*.log
+*.tmp
